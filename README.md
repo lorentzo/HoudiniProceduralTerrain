@@ -2,6 +2,12 @@
 
 Procedural tool for creating terrains given base mesh.
 
+![](Gallery/6_1.jpg)
+
+![](Gallery/6_2.jpg)
+
+![](Gallery/6_3.jpg)
+
 ![](Gallery/5_1.jpg)
 
 ![](Gallery/5_2.jpg)
