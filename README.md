@@ -2,6 +2,8 @@
 
 Procedural tool for creating terrains given base mesh.
 
+Results: https://www.artstation.com/artwork/XgRDW3
+
 ![](Gallery/6_1.jpg)
 
 ![](Gallery/6_2.jpg)
